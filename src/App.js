@@ -1,6 +1,5 @@
 // IMPORT useState
 import React from 'react';
-import './styles.css';
 // IMPORT imageData.js AND STORE IT IN A VARIABLE CALLED imagesArr
 
 export default function App() {
